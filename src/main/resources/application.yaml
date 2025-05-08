@@ -6,7 +6,7 @@ spring:
 
 check-common:
   audit-enable: true
-  log-execution-time: true
+  log-execution-time: false
   retry:
     enabled: true
     default-max-attempts: 3
